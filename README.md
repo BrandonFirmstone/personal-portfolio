@@ -1,6 +1,6 @@
 # Firmstone Freelance
 
-Firmstone Freelance is a site acting as my portfolio as well as representation for services I can provide.
+Firmstone Freelance is a site acting as my portfolio as well as representation for services I can provide. While I already have a portfolio site, I believe it needs a complete overhaul.
 
 ## Table of contents
 
